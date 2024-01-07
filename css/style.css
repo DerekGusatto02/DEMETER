@@ -822,35 +822,25 @@ footer{
 
 
 
+/*FORM SEGNALAZIONE*/
+#segnalazione{
+    display: flex;
+    flex-direction: column;
+}
+#segnalazione fieldset{
+    padding: 1em;
+}
+.form-linegroup input{
+    margin: 1em;
+    padding: 0.5em;
+}
+#segnalazione textarea{
+    width: 90%;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#segnalazione button{
+    font-size: 1em;
+    padding: 0.5em;
+    border-radius: 30%;
+}
 
